@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MinionRun.unity
+  isLoaded: 1
+  isActive: 1
